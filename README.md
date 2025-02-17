@@ -1,6 +1,3 @@
-Berikut adalah contoh dokumentasi untuk file README.md di GitHub repo Anda:
-
----
 
 # Random Users Data Pipeline
 
