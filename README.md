@@ -72,12 +72,3 @@ Jika Anda ingin berkontribusi pada proyek ini:
 2. Buat branch baru untuk fitur atau perbaikan bug.
 3. Kirimkan pull request dengan deskripsi perubahan Anda.
 
-Untuk pertanyaan atau saran, silakan buka [issue](https://github.com/username/repo-name/issues).
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
----
-
-Silakan sesuaikan bagian `username` dan `repo-name` sesuai dengan repository Anda. Dokumentasi ini dapat membantu pengguna lain memahami tujuan proyek dan cara menjalankannya.
